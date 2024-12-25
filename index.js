@@ -1,3 +1,4 @@
 let a = "mango orange" 
 let b = "kiwi"
-let c = "apple"
+let c = "apple mango"
+let d = "banana"
